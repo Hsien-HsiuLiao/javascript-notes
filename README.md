@@ -1,4 +1,4 @@
-ES6 - Arrow Functions - Beau teaches JavaScript https://www.youtube.com/watch?v=22fyYvxz-do
+# ES6 - Arrow Functions - Beau teaches JavaScript https://www.youtube.com/watch?v=22fyYvxz-do
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
 
@@ -15,3 +15,9 @@ Classes in JavaScript ES6 https://www.youtube.com/watch?v=bq_jZY6Skto
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
 
 https://googlechrome.github.io/samples/classes-es6/
+
+THIS keyword https://www.youtube.com/watch?v=eOI9GzMfd24
+
+https://codepen.io/somethingkindawierd/post/es6-arrow-functions-this
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this
