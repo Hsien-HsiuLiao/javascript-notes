@@ -7,7 +7,7 @@ function makeList(arr) {
   "use strict";
 
   const resultDisplayArray = [];
-  for (let i=0; i<3; i++){
+  for (let i=0; i<arr.length; i++){
     resultDisplayArray[i]=`<li class="text-warning">${arr[i]}</li>`
   }
 
@@ -16,3 +16,23 @@ function makeList(arr) {
 }
 
 const resultDisplayArray = makeList(result.failure);
+
+//other solutions
+function makeList(arr) {
+  "use strict";
+  // change code below this line
+  const resultDisplayArray = [];
+  for (let i = 0; i < arr.length; i++) {
+    resultDisplayArray.push(`<li class="text-warning">${arr[i]}</li>`);
+  }
+  // change code above this line
+  return resultDisplayArray;
+}
+
+function makeList(arr) {
+  "use strict";
+  // change code below this line
+  const resultDisplayArray = arr.map(item => `<li class="text-warning">${item}</li>`);
+  // change code above this line
+  return resultDisplayArray;
+}
