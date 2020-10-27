@@ -30,3 +30,6 @@
 
 ## Recursion 
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#Recursion
+
+## Functional programming
+- https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/
